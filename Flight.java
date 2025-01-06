@@ -1,4 +1,4 @@
-public class Flight {
+public class FlightNode {
 
     // Define the attributes
     private String origin;
