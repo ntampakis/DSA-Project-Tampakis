@@ -161,5 +161,7 @@ availability. The cancelReservation method cancels a reservation and frees up th
 on the corresponding flights. The listReservations method returns a list of reservations
 for a given customer ID, while the listReservationsByFlight method returns a list of
 reservations for a specific flight. The ReservationList class is used to manage the
-reservation system in the flight booking application. 
+reservation system in the flight booking application. This class also has the MAP and SET
+imported to use the HashMap, Map, and Set classes to store the reservations and avoid duplicates 
+and it was a way to get more ADTs not shown in class and fitted way better for this insance.
  */

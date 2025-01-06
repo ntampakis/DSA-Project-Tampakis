@@ -76,3 +76,10 @@ public class AirportList {
         return false;
     }
 }
+
+/*
+This class is used to store a list of airport codes in a linked list. 
+It provides methods to add and remove airports, get a list of airports,
+and check if an airport is in the list. The class uses a Node 
+class to represent each airport in the list.
+ */
